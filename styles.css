@@ -4,8 +4,8 @@
     --pink: #D08791;
   }
   
-  html {background: linear-gradient(to bottom right, #DDE8E2AA, #DDD9C5AA);}
-  
+html {background: linear-gradient(to bottom right, #DDE8E2AA, #DDD9C5AA);}
+
   .baby-yoda {
     width: 6em;
     height: 4em;
